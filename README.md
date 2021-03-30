@@ -9,7 +9,7 @@ A python code for testing control allocation for spacecraft simulator dynamics.
 5) Cvxpy  
 
 ### Control Allocation Methods Included
-1) psuedo inverse 
+1) Psuedo-inverse 
 2) QP formulation 
 3) CLF QP formulation 
 
