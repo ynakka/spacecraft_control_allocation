@@ -4,7 +4,6 @@ import scipy as sp
 import matplotlib  
 import matplotlib.pyplot as plt
 
-import plotting_tools as plotting_tools
 import ss_sim_3dof as dyn
 
 
