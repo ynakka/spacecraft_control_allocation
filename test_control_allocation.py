@@ -34,10 +34,6 @@ def main():
 
     _, ax1 = plt.subplots(6,1,figsize=(3,5))
     _, ax2 = plt.subplots(8,1,figsize=(3,5))
-    # plt.xlim((-0.4,0.3))
-    # plt.ylim((-0.1,2.4))
-    # for j in range(len(obstacle_state)):
-    #     plotting_tools.circular_obstacle(obstacle_state[j][0][0],obstacle_state[j][0][1],obstacle_state[j][1],ax1,facecolor='lightpink',alpha=0.8)
 
     desired_state = np.load('x_scp1.npy')
     desired_control = np.load('u_scp1.npy')
