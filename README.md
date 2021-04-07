@@ -16,6 +16,12 @@ A python code for testing control and control allocation for spacecraft simulato
 3) CLF-QP formulation 
 ```
 
+### How to run?
+```
+cd spacecraft_control_allocation 
+python3 test_control_allocation.py
+```
+
 ### References:
 ```
 @inproceedings{nakka2018six,
